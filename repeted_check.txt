@@ -1,0 +1,1 @@
+Check repetedCVX=TrueMSFT=TrueHON=TrueTRV=TrueMRK=TrueUNH=TrueJPM=TrueVZ=TruePG=TrueHD=TrueCSCO=TrueCRM=TrueMMM=TrueWMT=TrueINTC=TrueV=TrueMCD=TrueCAT=TrueKO=TrueJNJ=TrueWBA=TrueDOW=TrueIBM=TrueGS=TrueAMGN=TrueNKE=TrueAXP=TrueDIS=TrueAAPL=TrueBA=True
