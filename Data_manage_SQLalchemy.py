@@ -16,12 +16,6 @@ def connect_database(param_dic):
 
 #### Actualizar todas las bases de datos
 
-down_jones_param_dic = {'host': 'localhost', 'database': 'down_jones', 'user': 'postgres', 'password': 'sleepy1992', 'port': 5433}
-nasdaq_param_dic={'host': 'localhost','database': 'nasdaq', 'user': 'postgres', 'password': 'sleepy1992', 'port': 5433}
-sp500_param_dic={'host': 'localhost','database': 'sp500', 'user': 'postgres', 'password': 'sleepy1992', 'port': 5433}
-web_scraping_param_dic={'host': 'localhost','database': 'web_scrapping', 'user': 'postgres', 'password': 'sleepy1992', 'port': 5433}
-web_scraping_latest_news_param_dic={'host': 'localhost','database': 'intra_day_trading_news', 'user': 'postgres', 'password': 'sleepy1992', 'port': 5433}
-crypto_param_dic={'host': 'localhost','database': 'cryptocurrencies', 'user': 'postgres', 'password': 'sleepy1992', 'port': 5433}
 ###Aca trabajo con las bases de datos ya creadas y las actualizo cada una
 
 diccionarios=[down_jones_param_dic,nasdaq_param_dic,sp500_param_dic,web_scraping_param_dic,crypto_param_dic]
